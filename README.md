@@ -6,4 +6,5 @@
 ## 課程筆記區
 ## 作業連結區
 ### [HW1](https://github.com/41371232H/PL_Repo/blob/main/HW1.ipynb)
+### [HW2](https://github.com/41371232H/PL_Repo/blob/main/HW2.ipynb)
 ## 專題連結區
