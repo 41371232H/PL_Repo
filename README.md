@@ -13,4 +13,5 @@ id,task,status,priority,est_min,start_time,end_time,actual_min,pomodoros,due_dat
 2c85b78d,P,todo,M,25,,,0,0,,,,2025-10-24T18:18:24.693896+08:00,2025-10-24T18:18:24.693896+08:00,,today
 ### [HW4](https://github.com/41371232H/PL_Repo/blob/main/HW4.ipynb)
 ### [HW5](https://github.com/41371232H/PL_Repo/blob/main/HW5.ipynb)
+### [HW6](https://github.com/41371232H/PL_Repo/blob/main/HW6.ipynb)
 ## 專題連結區
