@@ -1,4 +1,4 @@
-[本週課表.csv](https://github.com/user-attachments/files/23567917/default.csv)[本週課表.csv](https://github.com/user-attachments/files/23567900/default.csv)# PL_Repo
+[本週課表.csv](https://github.com/user-attachments/files/23567922/default.csv)[本週課表 (1).csv](https://github.com/user-attachments/files/23567921/1.csv)[本週課表.csv](https://github.com/user-attachments/files/23567917/default.csv)[本週課表.csv](https://github.com/user-attachments/files/23567900/default.csv)# PL_Repo
 ## 114-1 師大科技系程式語言
 - 授課教師：蔡芸琤老師
 - 姓名：華宇童
@@ -14,7 +14,7 @@ id,task,status,priority,est_min,start_time,end_time,actual_min,pomodoros,due_dat
 ### [HW4](https://github.com/41371232H/PL_Repo/blob/main/HW4.ipynb)
 ### [HW5](https://github.com/41371232H/PL_Repo/blob/main/HW5.ipynb)
 ### [HW6](https://github.com/41371232H/PL_Repo/blob/main/HW6.ipynb)
-[Uploading 本週課表.csv]
+[Uploading 本週課表.csv…]()
 
 <img width="640" height="507" alt="螢幕擷取畫面 2025-11-16 200818" src="https://github.com/user-attachments/assets/7e236111-d8dc-4982-a524-6fdc4ad6f6a8" />
 
