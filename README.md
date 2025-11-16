@@ -13,7 +13,8 @@ id,task,status,priority,est_min,start_time,end_time,actual_min,pomodoros,due_dat
 ### [HW4](https://github.com/41371232H/PL_Repo/blob/main/HW4.ipynb)
 ### [HW5](https://github.com/41371232H/PL_Repo/blob/main/HW5.ipynb)
 ### [HW6](https://github.com/41371232H/PL_Repo/blob/main/HW6.ipynb)
-[本週課表.csv](https://github.com/user-attachments/files/23567926/default.csv)
+匯出的檔案:[本週課表.csv](https://github.com/user-attachments/files/23567926/default.csv)
+
 <img width="640" height="507" alt="螢幕擷取畫面 2025-11-16 200818" src="https://github.com/user-attachments/assets/7e236111-d8dc-4982-a524-6fdc4ad6f6a8" />
 
 ## 專題連結區
